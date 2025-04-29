@@ -9,14 +9,12 @@
 
 ![Demo Screenshot](public/demo-screenshot.png)
 
-> _Add your project screenshot here_
 
 ## 📚 Table of Contents
 - [About](#about)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
-- [Folder Structure](#folder-structure)
 - [Available Scripts](#available-scripts)
 - [Contributing](#contributing)
 - [License](#license)
@@ -41,13 +39,10 @@ This project is a modern web application built with **Next.js** for fast renderi
 | [TypeScript](https://www.typescriptlang.org/) | A statically typed superset of JavaScript |
 | [React](https://reactjs.org/)   | A JavaScript library for building user interfaces |
 
-📂 Folder Structure
-├── app/         # Pages and layouts
-├── components/  # Reusable UI components
-├── public/      # Static assets (images, fonts, etc.)
-├── styles/      # Global styles and Tailwind configuration
-├── package.json # Project dependencies
-└── README.md    # Project documentation
+## Getting Started
+
+Run npm run dev
+Open http://localhost:3000 in your browser and see the app in action.
 
 📜 Available Scripts
 
@@ -56,10 +51,21 @@ npm run dev	Starts the development server
 npm run build	Builds the app for production
 npm run start	Starts the app in production mode
 
-Run npm run dev
-Open http://localhost:3000 in your browser and see the app in action.
+🤝 Contributing
+We welcome contributions to this project. If you’d like to contribute:
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request
+
+🪪 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 📬 Contact
+
 Quan Dang – quanhs0971@gmail.com
 
 GitHub: https://github.com/quandang08
