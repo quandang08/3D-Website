@@ -1,4 +1,9 @@
-# My Next.js Project
+![Next.js Logo](https://www.softensity.com/wp-content/uploads/2023/01/Next.js-e1674039105147.png)
+
+
+
+
+# 3D Website Next.js Project
 
 > A full-featured web app built with **Next.js 14**, **TailwindCSS**, **TypeScript**, and **React**.
 
